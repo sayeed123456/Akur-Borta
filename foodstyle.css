@@ -121,8 +121,7 @@ body {
 .section-4 {
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    box-shadow: 10px 10px 10px 10px gray;
+
     margin-top: 100px;
     margin-left: 150px;
     margin-right: 150px;
@@ -133,6 +132,8 @@ body {
 .h4 {
     padding-left: 50px;
     padding-right: 70px;
+    align-items: center;
+    box-shadow: 10px 10px 10px 10px gray;
 
 }
 
@@ -142,8 +143,8 @@ body {
     background-color: black;
     padding-top: 10px;
     padding-bottom: 20px;
-}
+    ;
 
-.alu {
-    color: gold;
-}
+    .alu {
+        color: gold;
+    }
