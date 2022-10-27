@@ -1,0 +1,149 @@
+.image {
+    width: 600px;
+    height: 550px;
+    padding-top: 20px;
+}
+
+.section-1 {
+    display: flex;
+    align-items: center;
+
+}
+
+body {
+    font-family: 'Fuzzy Bubbles', cursive;
+    margin: 0%;
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(17, 207, 232), rgb(14, 181, 178));
+    padding: 10px 30px;
+    font-weight: 700;
+    border-radius: 5px;
+    color: black;
+}
+
+
+
+
+.heading {
+    font-size: 50px;
+    padding-top: 10%;
+}
+
+.para {
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+
+.link {
+    padding-left: 550px;
+}
+
+.skip {
+    padding-left: 100px;
+    color: rgb(0, 187, 255);
+}
+
+.section-2 {
+    display: flex;
+    align-items: center;
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.link-2 {
+    padding-left: 300px;
+
+
+}
+
+.alur-borta {
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.heading-1 {
+    text-align: center;
+    font-size: 50px;
+    padding-top: 5%;
+
+}
+
+.section-3 {
+
+    padding-left: 10px;
+    display: flex;
+    padding-right: 20px;
+    margin-bottom: 50px;
+    align-items: center;
+    margin-top: 50px;
+    background: cover;
+}
+
+.image-6 {
+    padding: 20px 20px;
+    height: 300px;
+    width: 550px;
+
+    padding-left: 30px;
+
+}
+
+.div-flex {
+    box-shadow: 10px 10px 10px 10px gray;
+    padding-left: 10px;
+    border-radius: 10px;
+
+}
+
+.div-flex-2 {
+    box-shadow: 10px 10px 10px 10px gray;
+    padding-left: 10px;
+    border-radius: 10px;
+
+    margin-left: 30px;
+}
+
+.heading-2 {
+
+    font-size: 30px;
+
+    font-weight: 900px;
+    padding-left: 80px;
+    padding-right: 50px;
+
+}
+
+.section-4 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 10px 10px 10px 10px gray;
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 100px;
+    border-radius: 10px;
+}
+
+.h4 {
+    padding-left: 50px;
+    padding-right: 70px;
+
+}
+
+.foot {
+    color: azure;
+    text-align: center;
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.alu {
+    color: gold;
+}
